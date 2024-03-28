@@ -1,0 +1,23 @@
+{
+  "name": "interactive-dataizations-and-charts-package",
+  "version": "1.0.0",
+  "description": "cript package allows you easily create interactive data visualizations and charts for web applications using Chart.js library",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BZCH/Interactive-Dataizations-and-Charts-Package.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "image-optimizer-utility": "^1.0.0"
+  }
+}
